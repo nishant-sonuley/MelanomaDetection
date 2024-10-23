@@ -19,6 +19,10 @@ This project builds a machine learning model to detect melanoma and other types 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Observations
+- Code should be executed on Google Colab instead of Local
+- Execution on Local was time consuming and could not finish due to limited memory
+
 ## Technologies Used
 - Python - version 3.8
 - TensorFlow/Keras - version 2.10
