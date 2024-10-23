@@ -4,6 +4,7 @@ This project builds a machine learning model to detect melanoma and other types 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Observations](#observations)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
